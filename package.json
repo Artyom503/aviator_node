@@ -1,4 +1,11 @@
 {
+  "name": "aviator",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^4.19.2",
@@ -6,5 +13,8 @@
     "http": "^0.0.1-security",
     "path": "^0.12.7",
     "ws": "^8.16.0"
-  }
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }

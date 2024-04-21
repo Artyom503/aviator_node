@@ -31,37 +31,7 @@ main {
   padding: 50px 30px;
   color: #fff;
   height: 100%;
-  background-image: linear-gradient(to bottom right, 
-  #ccc 0%, 
-  #ccc 6.67%, 
-  #ff0000 6.67%, 
-  #ff0000 13.33%, 
-  #ccc 13.33%, 
-  #ccc 20%, 
-  #ff0000 20%, 
-  #ff0000 26.67%, 
-  #ccc 26.67%, 
-  #ccc 33.33%, 
-  #ff0000 33.33%, 
-  #ff0000 40%, 
-  #ccc 40%, 
-  #ccc 46.67%, 
-  #ff0000 46.67%, 
-  #ff0000 53.33%, 
-  #ccc 53.33%, 
-  #ccc 60%, 
-  #ff0000 60%, 
-  #ff0000 66.67%, 
-  #ccc 66.67%, 
-  #ccc 73.33%, 
-  #ff0000 73.33%, 
-  #ff0000 80%, 
-  #ccc 80%, 
-  #ccc 86.67%, 
-  #ff0000 86.67%, 
-  #ff0000 93.33%, 
-  #ccc 93.33%, 
-  #ccc 100%);
+  background: linear-gradient(to bottom, white, red, black);
 background-size: 100% 100%; /* Cover the entire viewport */
 
 }
